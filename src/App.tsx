@@ -1,9 +1,8 @@
-import Component from './starter/09-rtk';
+import Component from './starter/10-tasks';
 
 function App() {
   return (
     <main>
-      <h2>React & Typescript</h2>
       {/* <Component name="peter" id={123}>
         <h2>Hello World</h2>
       </Component> */}
