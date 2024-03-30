@@ -1,3 +1,6 @@
+import { useState, useEffect } from 'react';
+const url = 'https://www.course-api.com/react-tours-project';
+
 function Component() {
   return (
     <div>
